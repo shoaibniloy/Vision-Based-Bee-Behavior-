@@ -6,7 +6,7 @@ This tool detects bees, mites, pollen, queens, queen cells, and varroa mites, wh
 
 ## 🎥 Demo  
 
-![Bee Vision Demo](bee.gif)  
+![Bee Vision Demo](bee vision.gif)  
 
 ---
 ---
