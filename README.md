@@ -4,6 +4,11 @@
 A real-time PyQt6 application for **honeybee activity monitoring** powered by **YOLOv11**, **Ultralytics**, and **Supervision**.  
 This tool detects bees, mites, pollen, queens, queen cells, and varroa mites, while tracking activity, behaviors, and anomalies.  
 
+## 🎥 Demo  
+
+![Bee Vision Demo](bee.gif)  
+
+---
 ---
 
 ## 🚀 Getting Started  
